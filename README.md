@@ -1,16 +1,19 @@
 # 🐍 Snake Xenzia — Classic Snake Game in Python
 
+
 ## 🎯 Short Description
 
 A modern recreation of the classic **Snake Xenzia** game built using Python and the `turtle` graphics library.  
 The goal is simple: **Eat. Grow. Survive.**
 This game offers smooth movement, collision detection, and a responsive score tracker — all coded from scratch.
 
+
 ## ⚙️ Tech Stack Used
 
 - **Language:** Python 3  
 - **Library:** `turtle` (for graphics)  
 - **Concepts:** OOP, game loop, collision detection, modular design
+
 
 ## 🚀 Features
 
@@ -19,6 +22,7 @@ This game offers smooth movement, collision detection, and a responsive score tr
 - ✅ Live score display  
 - ✅ Game Over screen  
 - ✅ Clean, modular code across multiple Python files
+
 
 ## 💻 How to Run the Game
 
@@ -37,11 +41,13 @@ This game offers smooth movement, collision detection, and a responsive score tr
 
 > ⚠️ Make sure you have Python 3 installed. This game uses the built-in `turtle` module, so no extra installations needed.
 
+
 ## 🎥 Gameplay Demo
 
 <p align="center">
   <img src="Snake%20game/demo.gif" width="450" alt="Snake Gameplay Demo" />
 </p>
+
 
 ## 🧠 Key Learnings & Challenges
 
@@ -50,6 +56,7 @@ This game offers smooth movement, collision detection, and a responsive score tr
 * Implemented **basic game architecture** including event listeners and collision logic
 * Faced and overcame issues like **body collision detection** and **screen boundary management**
 
+
 ## 🔮 Future Improvements
 
 * Add difficulty levels or game speed increase over time
@@ -57,6 +64,7 @@ This game offers smooth movement, collision detection, and a responsive score tr
 * Store high scores locally
 * Add start/pause menu and animations
 * Improve UI with custom sprites instead of turtle shapes
+
 
 ## 📁 Project Structure
 

@@ -1,27 +1,27 @@
-# 🐍 Snake Xenzia 
+# Snake 🐍 Xenzia 
 
 A modern recreation of the classic **Snake Xenzia** game built using Python and the `turtle` graphics library.  
 The goal is simple: **Eat. Grow. Survive.**
 This game offers smooth movement, collision detection, and a responsive score tracker — all coded from scratch.
 
 
-## ⚙️ Tech Stack Used
+## Tech Stack Used
 
 - **Language:** Python 3  
 - **Library:** `turtle` (for graphics)  
 - **Concepts:** OOP, game loop, collision detection, modular design
 
 
-## 🚀 Features
+## Features
 
-- ✅ Real-time snake movement with keyboard input  
-- ✅ Collision detection with food, wall, and self  
-- ✅ Live score display  
-- ✅ Game Over screen  
-- ✅ Clean, modular code across multiple Python files
+- Real-time snake movement with keyboard input  
+- Collision detection with food, wall, and self  
+- Live score display  
+- Game Over screen  
+- Clean, modular code across multiple Python files
 
 
-## 💻 How to Run the Game
+## How to Run the Game
 
 1. **Clone the repo**
 
@@ -39,14 +39,14 @@ This game offers smooth movement, collision detection, and a responsive score tr
 > ⚠️ Make sure you have Python 3 installed. This game uses the built-in `turtle` module, so no extra installations needed.
 
 
-## 🎥 Gameplay Demo
+## Gameplay Demo
 
 <p align="center">
   <img src="Snake%20game/demo.gif" width="450" alt="Snake Gameplay Demo" />
 </p>
 
 
-## 🧠 Key Learnings & Challenges
+## Key Learnings & Challenges
 
 * Mastered **object-oriented programming** by separating logic into `Snake`, `Food`, and `ScoreBoard` classes
 * Learned how to manage **real-time input** and **frame-by-frame updates** using `Screen.tracer()` and `Screen.update()`
@@ -54,7 +54,7 @@ This game offers smooth movement, collision detection, and a responsive score tr
 * Faced and overcame issues like **body collision detection** and **screen boundary management**
 
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Add difficulty levels or game speed increase over time
 * Add sound effects and background music
@@ -63,7 +63,7 @@ This game offers smooth movement, collision detection, and a responsive score tr
 * Improve UI with custom sprites instead of turtle shapes
 
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 /Snake game

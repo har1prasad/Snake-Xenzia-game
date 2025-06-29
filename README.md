@@ -39,7 +39,9 @@ This game offers smooth movement, collision detection, and a responsive score tr
 
 ## 🎥 Gameplay Demo
 
-![Snake Gameplay Demo](Snake%20game/demo.gif)
+<p align="center">
+  <img src="snake-game/demo.gif" width="450" alt="Snake Gameplay Demo" />
+</p>
 
 ## 🧠 Key Learnings & Challenges
 

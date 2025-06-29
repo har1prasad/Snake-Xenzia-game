@@ -2,7 +2,8 @@
 
 ## 🎯 Short Description
 
-A modern recreation of the classic **Snake Xenzia** game built using Python and the `turtle` graphics library. The goal is simple: **Eat. Grow. Survive.**  
+A modern recreation of the classic **Snake Xenzia** game built using Python and the `turtle` graphics library.  
+The goal is simple: **Eat. Grow. Survive.**
 This game offers smooth movement, collision detection, and a responsive score tracker — all coded from scratch.
 
 ---
@@ -28,7 +29,8 @@ This game offers smooth movement, collision detection, and a responsive score tr
 ## 💻 How to Run the Game
 
 1. **Clone the repo**
-   ```bash
+
+```bash
    git clone https://github.com/yourusername/snake-xenzia-python.git
    cd snake-xenzia-python
 ````
@@ -43,18 +45,18 @@ This game offers smooth movement, collision detection, and a responsive score tr
 
 ---
 
-## 📸 Screenshots
+## 🎥 Gameplay Demo
 
-> *(Add a GIF or screenshot here of the gameplay — consider using screen recording tools like ShareX, OBS Studio, or LICEcap.)*
+![Snake Gameplay Demo](demo.gif)
 
 ---
 
 ## 🧠 Key Learnings & Challenges
 
-* Mastered **object-oriented programming** by separating logic into `Snake`, `Food`, and `ScoreBoard` classes.
-* Learned how to manage **real-time input** and **frame-by-frame updates** using `Screen.tracer()` and `Screen.update()`.
-* Implemented **basic game architecture** including event listeners and collision logic.
-* Faced and overcame issues like **body collision detection** and **screen boundary management**.
+* Mastered **object-oriented programming** by separating logic into `Snake`, `Food`, and `ScoreBoard` classes
+* Learned how to manage **real-time input** and **frame-by-frame updates** using `Screen.tracer()` and `Screen.update()`
+* Implemented **basic game architecture** including event listeners and collision logic
+* Faced and overcame issues like **body collision detection** and **screen boundary management**
 
 ---
 
@@ -77,9 +79,11 @@ This game offers smooth movement, collision detection, and a responsive score tr
 ├── food.py             # Food creation and placement
 ├── Scoreboard.py       # Score tracking and Game Over message
 ├── README.md           # You're here!
-├── LICENSE             # MIT License
-└── .gitignore          # Python & system ignores
+├── demo.gif            # Gameplay preview
 ```
 
 ---
+
+## 📬 Contact / Portfolio
+
 Made with ❤️ by **Hari**

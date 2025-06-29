@@ -1,5 +1,4 @@
-# 🐍 Snake Xenzia — Classic Snake Game in Python
-
+# 🐍 Snake Xenzia 
 
 ## 🎯 Short Description
 

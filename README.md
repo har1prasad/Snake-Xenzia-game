@@ -6,15 +6,11 @@ A modern recreation of the classic **Snake Xenzia** game built using Python and 
 The goal is simple: **Eat. Grow. Survive.**
 This game offers smooth movement, collision detection, and a responsive score tracker — all coded from scratch.
 
----
-
 ## ⚙️ Tech Stack Used
 
 - **Language:** Python 3  
 - **Library:** `turtle` (for graphics)  
 - **Concepts:** OOP, game loop, collision detection, modular design
-
----
 
 ## 🚀 Features
 
@@ -23,8 +19,6 @@ This game offers smooth movement, collision detection, and a responsive score tr
 - ✅ Live score display  
 - ✅ Game Over screen  
 - ✅ Clean, modular code across multiple Python files
-
----
 
 ## 💻 How to Run the Game
 
@@ -37,19 +31,15 @@ This game offers smooth movement, collision detection, and a responsive score tr
 
 2. **Run the game**
 
-   ```bash
+```bash
    python main.py
-   ```
+```
 
 > ⚠️ Make sure you have Python 3 installed. This game uses the built-in `turtle` module, so no extra installations needed.
-
----
 
 ## 🎥 Gameplay Demo
 
 ![Snake Gameplay Demo](demo.gif)
-
----
 
 ## 🧠 Key Learnings & Challenges
 
@@ -58,8 +48,6 @@ This game offers smooth movement, collision detection, and a responsive score tr
 * Implemented **basic game architecture** including event listeners and collision logic
 * Faced and overcame issues like **body collision detection** and **screen boundary management**
 
----
-
 ## 🔮 Future Improvements
 
 * Add difficulty levels or game speed increase over time
@@ -67,8 +55,6 @@ This game offers smooth movement, collision detection, and a responsive score tr
 * Store high scores locally
 * Add start/pause menu and animations
 * Improve UI with custom sprites instead of turtle shapes
-
----
 
 ## 📁 Project Structure
 
@@ -81,9 +67,5 @@ This game offers smooth movement, collision detection, and a responsive score tr
 ├── README.md           # You're here!
 ├── demo.gif            # Gameplay preview
 ```
-
----
-
-## 📬 Contact / Portfolio
 
 Made with ❤️ by **Hari**

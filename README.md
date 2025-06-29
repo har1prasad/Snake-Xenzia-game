@@ -69,7 +69,7 @@ This game offers smooth movement, collision detection, and a responsive score tr
 ## 📁 Project Structure
 
 ```
-/snake-xenzia-python
+/Snake game
 ├── main.py             # Main game loop
 ├── snake.py            # Snake movement and behavior
 ├── food.py             # Food creation and placement

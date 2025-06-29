@@ -1,7 +1,5 @@
 # 🐍 Snake Xenzia 
 
-## 🎯 Short Description
-
 A modern recreation of the classic **Snake Xenzia** game built using Python and the `turtle` graphics library.  
 The goal is simple: **Eat. Grow. Survive.**
 This game offers smooth movement, collision detection, and a responsive score tracker — all coded from scratch.

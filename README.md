@@ -66,7 +66,6 @@ This game offers smooth movement, collision detection, and a responsive score tr
 ├── snake.py            # Snake movement and behavior
 ├── food.py             # Food creation and placement
 ├── Scoreboard.py       # Score tracking and Game Over message
-├── README.md           # You're here!
 ├── demo.gif            # Gameplay preview
 ```
 
